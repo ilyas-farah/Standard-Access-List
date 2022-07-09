@@ -50,3 +50,4 @@ R1(config-if)#exit
 access-list 3 permit 10.1.1.0 0.0.0.255
 ip nat inside source list 3 interface g0/1 overload 
 End 
+![STANDARD ACL](https://user-images.githubusercontent.com/106605770/178121043-f10380c2-bc83-49fb-9dd1-85e2b33de91e.jpg)
